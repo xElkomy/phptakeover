@@ -14,9 +14,6 @@
     <section class="instructions">
         <script type="text/javascript">alert(document.domain + ' ' + document.cookie); </script>
     </section>
-    <section class="instructions">
-        <img src="https://i1.sndcdn.com/artworks-000091626260-0bbfiw-t500x500.jpg">
-    </section>
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
 </body>
 </html>
